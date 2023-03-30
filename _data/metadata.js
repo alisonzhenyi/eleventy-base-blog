@@ -1,10 +1,10 @@
 module.exports = {
-	"title": "Eleventy Base Blog v8",
+	"title": "Alison's Test Eleventy Base Blog v8",
 	"url": "https://example.com/",
 	"language": "en",
-	"description": "I am writing about my experiences as a naval navel-gazer.",
+	"description": "I am trying to use netlify.",
 	"author": {
-		"name": "Your Name Here",
+		"name": "Alison",
 		"email": "youremailaddress@example.com",
 		"url": "https://example.com/about-me/"
 	}
